@@ -6,17 +6,17 @@ A clean and fully interactive "JavaScript task manager" application. Built with 
 
 # Features
 
-• Add new tasks via the input field and button
-• Mark tasks as complete with a checkbox
-• Delete tasks individually
-• Filter tasks by:
-    • All
-    • To Do
-    • Done
-• Visual feedback:
-    • Strike-through for completed tasks
-    • Active filter button highlighting
-• Clean, responsive layout using Flexbox
+- Add new tasks via the input field and button
+- Mark tasks as complete with a checkbox
+- Delete tasks individually
+- Filter tasks by:
+    - All
+    - To Do
+    - Done
+- Visual feedback:
+    - Strike-through for completed tasks
+    - Active filter button highlighting
+- Clean, responsive layout using Flexbox
 
 ----------------------------------------------------------
 
@@ -28,18 +28,18 @@ task-manager-app/
 ├── script.js
 └── README.md
 
-• Markup and structure
-• Layout and design styling
-• Task logic and interaction
-• Project overview and documentation
+- Markup and structure
+- Layout and design styling
+- Task logic and interaction
+- Project overview and documentation
 
 ----------------------------------------------------------
 
 # Technologies Used
 
-• HTML5
-• CSS3 (Flexbox, transitions, styling)
-• Vanilla JavaScript (DOM manipulation, event handling)
+- HTML5
+- CSS3 (Flexbox, transitions, styling)
+- Vanilla JavaScript (DOM manipulation, event handling)
 
 ----------------------------------------------------------
 
@@ -55,11 +55,11 @@ task-manager-app/
 
 # Learning Objectives
 
-• DOM creation and manipulation
-• Event-driven UI updates
-• CSS Flexbox for layout
-• Managing state visually (e.g., toggled buttons and tasks)
-• Structuring a small single-page app cleanly
+- DOM creation and manipulation
+- Event-driven UI updates
+- CSS Flexbox for layout
+- Managing state visually (e.g., toggled buttons and tasks)
+- Structuring a small single-page app cleanly
 
 ----------------------------------------------------------
 
@@ -72,12 +72,12 @@ task-manager-app/
 
 ----------------------------------------------------------
 
-Author
+# Author
 
 This project was created as part of a capstone series for hands-on JavaScript development.
 
 ----------------------------------------------------------
 
-License
+# License
 
 Free for personal, educational, and non-commercial use.
