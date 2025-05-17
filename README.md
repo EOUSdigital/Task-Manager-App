@@ -65,10 +65,10 @@ task-manager-app/
 
 # Future Improvements (Optional)
 
-• LocalStorage support to persist tasks
-• Task due dates or priority levels
-• Edit task feature
-• Task count indicator
+• - LocalStorage support to persist tasks
+• - Task due dates or priority levels
+• - Edit task feature
+• - Task count indicator
 
 ----------------------------------------------------------
 
